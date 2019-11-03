@@ -12,7 +12,7 @@ This code has been written in Kotlin - Android using Androidx components in MVVM
 
 This code has the unittests written using junit and Instrumentation test cases written using espresso.
 
-This app also consists of a local database, so whenever there is no service available it would ask the user if it wants to fetch from the local database.
+This app also consists of a local database, so whenever there is no service available it would ask the user if he/she wants to fetch from the local database.
 
 The libraries or languages that are being used for this project are.
 ```
