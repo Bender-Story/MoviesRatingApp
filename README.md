@@ -30,5 +30,6 @@ The libraries or languages that are being used for this project are.
 12. anko
 13. Room - For Local Data Base.
 ```
-***URL used : ***
+***URL used ***
+
 https://api.themoviedb.org/3/movie/now_playing?api_key=81b19ffd8a7ac360cce26f4f071e72ee&language=en-US&page=1
