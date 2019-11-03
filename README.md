@@ -1,9 +1,12 @@
 **# MoviesRatingApp**
+
 **Recent Movie details**
 
 This App has been created to show the latest Movies list with few details of the Movie.
+```
 Screen 1 : Has the list of the Movies sorted as per their ratings
 Screen 2 : The Movie details of the movie that user has selected from the list and it also shows a list of related movies at the bottom with a horizontal scroll.
+```
 
 This code has been written in Kotlin - Android using Androidx components in MVVM Pattern.
 
